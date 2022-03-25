@@ -156,9 +156,9 @@ Reciprocity
 {{< tdopen >}}
 
 
-Freeman, Dena. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Techniques of Happiness: Moving Toward and Away from the Good Life in a Rural Ethiopian Community.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau5.3.009) _Hau: Journal of Ethnographic Theory_ 5, no. 3 (2015) 157–76.
+Freeman, Dena. [“Techniques of Happiness: Moving Toward and Away from the Good Life in a Rural Ethiopian Community.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau5.3.009) _Hau: Journal of Ethnographic Theory_ 5, no. 3 (2015) 157–76.
 
-Myers, Fred. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Burning the Truck and Holding the Country: Pintupi Forms of Property and Identity.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau6.1.035) _HAU: Journal of Ethnographic Theory_ 6 (2016): 553–75.
+Myers, Fred. [“Burning the Truck and Holding the Country: Pintupi Forms of Property and Identity.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau6.1.035) _HAU: Journal of Ethnographic Theory_ 6 (2016): 553–75.
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ Work
 
 Mason, Katherine A. “[Quantitative Care: Caring for the Aggregate in US Academic Population Health Sciences](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/amet.12632).” _American Ethnologist_ 45, no. 2 (2018): 201–13.
 
-Walker, Harry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Joy within Tranquility: Amazonian Urarina Styles of Happiness.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau5.3.010) _Hau: Journal of Ethnographic Theory_ 5, no. 3 (2015): 177–96.
+Walker, Harry. [“Joy within Tranquility: Amazonian Urarina Styles of Happiness.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.14318/hau5.3.010) _Hau: Journal of Ethnographic Theory_ 5, no. 3 (2015): 177–96.
 
 
 {{< tdclose >}}
@@ -402,7 +402,7 @@ Cultural Citizenship and Multiple Belongings
 {{< tdopen >}}
 
 
-Khabeer, Su’ad Abdul. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Citizens and Suspects: Race, Gender, and the Making of American Muslim Citizenship.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/traa.12098) _Transforming Anthropology_ 25, no. 2 (2017): 103–19.
+Khabeer, Su’ad Abdul. [“Citizens and Suspects: Race, Gender, and the Making of American Muslim Citizenship.” (PDF)](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/traa.12098) _Transforming Anthropology_ 25, no. 2 (2017): 103–19.
 
 Jacobsen-Bia, Kristina. “[Radmilla’s Voice: Music Genre, Blood Quantum, and Belonging on the Navajo Nation](https://anthrosource.onlinelibrary.wiley.com/doi/full/10.14506/ca29.2.11).” _Cultural Anthropology_ 29, no. 2 (2014): 385–410.
 
@@ -480,7 +480,7 @@ A Cause
 {{< tdopen >}}
 
 
-Coleman, Gabriella. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“From Internet Farming to Weapons of the Geek.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/688697) _Current Anthropology_ 58(S15)(2017): 91–102.
+Coleman, Gabriella. [“From Internet Farming to Weapons of the Geek.” (PDF)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/688697) _Current Anthropology_ 58(S15)(2017): 91–102.
 
 Elisha, Omri. “[Faith Beyond Belief: Evangelical Protestant Conceptions of Faith and the Resonance of Anti-humanism](https://www.researchgate.net/publication/233712951_Faith_beyond_Belief_Evangelical_Protestant_Conceptions_of_Faith_and_the_Resonance_of_Anti-Humanism).” _Social Analysis_ 52, no. 1 (2008): 56–78.
 
@@ -500,7 +500,7 @@ Progress
 
 Bernstein, Anya. “[Freeze, Die, Come to Life: The Many Paths to Immortality in Post-Soviet Russia](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12169).” _American Ethnologist_ 42, no. 4 (2015): 766–81.
 
-Valentine, David. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Exit Strategy: Profit, Cosmology, and the Future of Humans in Space.” (PDF)](https://muse.jhu.edu/article/488890/pdf) _Anthropological Quarterly_ 85, no. 4 (2012): 1045–67.
+Valentine, David. [“Exit Strategy: Profit, Cosmology, and the Future of Humans in Space.” (PDF)](https://muse.jhu.edu/article/488890/pdf) _Anthropological Quarterly_ 85, no. 4 (2012): 1045–67.
 
 
 {{< tdclose >}}
